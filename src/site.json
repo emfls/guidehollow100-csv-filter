@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "csv-filter",
+  "section": "조건에 맞는 표 행 추출",
+  "hero": "조건에 맞는 표 행 추출",
+  "description": "문자 조건은 대소문자를 구분합니다. 수치 비교는 열의 모든 값을 검증하며 빈 수치는 오류입니다.",
+  "pageTitle": "조건에 맞는 표 행 추출 | GuideHollow",
+  "url": "https://csv-filter.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
